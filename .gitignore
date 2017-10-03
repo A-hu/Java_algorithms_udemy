@@ -1,3 +1,7 @@
 /.metadata/
 .recommenders/
+*/.classpath
+*/.gitignore
+*/.project
+*/.settings/
 eclimd.log
